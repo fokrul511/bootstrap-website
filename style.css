@@ -1,0 +1,15 @@
+.navbar{
+    /* background-color: orange; */
+    z-index: 15;
+    position: relative;
+    background-color: rgb(255,255,255,0.1);
+    backdrop-filter: blur(10px);
+    position: sticky;
+    top: 0px;
+}
+
+.carousel{
+    bottom: 60px;
+    position: relative;
+    z-index: 10;
+}
